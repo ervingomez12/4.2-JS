@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+.body{
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.calculo{
+    background-color: rgb(33, 150, 111);
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom: 40px;
+}
+.texto{
+    display: block;
+    margin-top: 30px;
+    margin-left: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.boton{
+    margin-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
